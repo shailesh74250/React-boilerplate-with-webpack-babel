@@ -1,1 +1,2 @@
-# React-boilerplate-with-webpack-babel
+# movie-list-app
+display movies list using webpack, babe; reactjs, javascript.
